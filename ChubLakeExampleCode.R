@@ -7,7 +7,7 @@ library(cluster)
 library(RColorBrewer)
 library(plotly)
 
-#Adding New Ages to my dataframe
+#Adding new ages to my dataframe
 
 Chubdata <- read_csv("ChubLake_fulldata_Jan26_clrXRF.csv")
 age.depth <- read_csv("Chub_22_new_164_ageDepth.csv")
